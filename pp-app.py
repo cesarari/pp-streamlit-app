@@ -177,7 +177,7 @@ if(my_button=='Dimensión de contexto'):
         st.text("")
         st.text("")
 
-        st.write(""" ##### Con esta gráfica podemos ver por cuales dependencias se vota más en PP""")
+        st.write(""" #####Con esta gráfica podemos ver por cuales dependencias se vota más en PP""")
         #st.markdown("""<h3 style='text-align: center; color: black;'>
         #    Con esta grafica podemos ver en que dependencias se ha invertido mas
         #    </h3>""", unsafe_allow_html=True)
